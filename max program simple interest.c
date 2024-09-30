@@ -1,3 +1,6 @@
+//REG NO ;CT101/G/25068/24
+
+
 #include <stdio.h>
 
 int main() {
